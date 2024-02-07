@@ -1,1 +1,1 @@
-# coding-project-template
+# used IBMcloud to deploy the frontend + backend
